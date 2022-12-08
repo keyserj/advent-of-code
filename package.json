@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.11.11",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "path": "^0.12.7",
+    "ts-node": "^10.9.1"
+  }
+}
