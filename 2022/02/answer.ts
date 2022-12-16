@@ -1,6 +1,7 @@
 import { loadInput } from "../../helper";
 import _ from "lodash";
 
+// keys cannot be numbers for objects, so we use a Map
 const winsAgainst = new Map([
   [1, 2],
   [2, 3],
